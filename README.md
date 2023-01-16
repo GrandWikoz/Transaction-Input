@@ -31,9 +31,13 @@ This project made up of four different modules, namely:
 ![Screenshot (1274)](https://user-images.githubusercontent.com/122712029/212678847-b5444e52-229c-40a7-b796-a825f642fe5d.png)
 
 3. Update
+![Screenshot (1276)](https://user-images.githubusercontent.com/122712029/212679324-238c784a-a3c9-4fb0-85b4-eea229ca2a58.png)
 
 3. Delete
+![Screenshot (1278)](https://user-images.githubusercontent.com/122712029/212679638-95471756-4c1a-4b16-a981-cdec80b98542.png)
 
 4. Finishing
+![Screenshot (1280)](https://user-images.githubusercontent.com/122712029/212679819-8e3a297e-7e11-43c9-b92e-f406cd96647d.png)
 
 # Conclusion
+This project could handle simple transaction such as regular data input and purchase summary. It is also accompanied with error catch to avoid any program error. Nevertheless, it is still a simple project and the output is not that eye-catching.
