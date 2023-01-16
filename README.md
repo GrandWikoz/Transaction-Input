@@ -22,5 +22,18 @@ This project made up of four different modules, namely:
 3. delete, used to delete transaction and/or item
 4. finishing, used to show purchase summary and price to pay
 # Demonstration
+1. Starting program 
+![Screenshot (1267)](https://user-images.githubusercontent.com/122712029/212678404-d9efd024-2754-403a-a6b2-983d50a6b7e8.png)
+
+2. Data input
+![Screenshot (1273)](https://user-images.githubusercontent.com/122712029/212678886-59d01a26-9d92-447a-9b2b-2111ddcf5fef.png)
+
+![Screenshot (1274)](https://user-images.githubusercontent.com/122712029/212678847-b5444e52-229c-40a7-b796-a825f642fe5d.png)
+
+3. Update
+
+3. Delete
+
+4. Finishing
 
 # Conclusion
